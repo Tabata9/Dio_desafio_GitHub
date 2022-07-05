@@ -1,4 +1,4 @@
-#Inteligência artificial 
+# Inteligência artificial 
 
 Primeiro desafio projeto Dio - Git/GitHub
 
@@ -9,6 +9,6 @@ Os assistentes inteligentes usam a IA para analisar informações críticas de g
 Os mecanismos de recomendação podem fornecer recomendações automatizadas para programas de TV com base nos hábitos de visualização dos usuários
 A IA está mais relacionada ao processo e a capacidade de pensamento superpoderoso e a análise de dados do que a qualquer formato ou função em particular. Embora a IA traga imagens de robôs parecidos com os homens de alto funcionamento que dominam o mundo, a IA não pretende substituir os seres humanos. Seu objetivo é melhorar significativamente as habilidades e contribuições humanas. Isso faz dela um ativo de negócios muito valioso.
 
-#Links úteis
+## Links úteis
 
 [Matéria completa sobre IA](https://www.oracle.com/br/artificial-intelligence/what-is-ai/)
