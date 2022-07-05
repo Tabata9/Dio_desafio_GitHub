@@ -1,6 +1,6 @@
 # Inteligência artificial 
 
-Primeiro desafio projeto Dio - Git/GitHub
+## Primeiro desafio projeto Dio - Git/GitHub
 
 Em termos mais simples, IA, que significa inteligência artificial, refere-se a sistemas ou máquinas que imitam a inteligência humana para realizar tarefas e podem se aprimorar iterativamente com base nas informações que coletam. A IA se manifesta de várias formas. Alguns exemplos são:
 
